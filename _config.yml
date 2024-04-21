@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Vikas Dadhich </p>
 logo: /assets/img/vikas.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/Vikas_Dadhich.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vikasdadhich/">LinkedIn</a> |
+  <a href="https://github.com/vikasdadhich100">GitHub</a>
+  
+  <br>   
+  Expertise in DataStreaming, Apache Pulsar, Apache Kafka, Apache Spark, JVM, Python and Software as a service( SAAS)
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
